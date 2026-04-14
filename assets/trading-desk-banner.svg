@@ -1,46 +1,37 @@
-<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="360" rx="28" fill="#06090D"/>
-  <rect x="1" y="1" width="1278" height="358" rx="27" stroke="#18222D"/>
-  <g opacity="0.2">
-    <path d="M0 58H1280" stroke="#294055"/>
-    <path d="M0 118H1280" stroke="#294055"/>
-    <path d="M0 178H1280" stroke="#294055"/>
-    <path d="M0 238H1280" stroke="#294055"/>
-    <path d="M0 298H1280" stroke="#294055"/>
-    <path d="M120 0V360" stroke="#294055"/>
-    <path d="M240 0V360" stroke="#294055"/>
-    <path d="M360 0V360" stroke="#294055"/>
-    <path d="M480 0V360" stroke="#294055"/>
-    <path d="M600 0V360" stroke="#294055"/>
-    <path d="M720 0V360" stroke="#294055"/>
-    <path d="M840 0V360" stroke="#294055"/>
-    <path d="M960 0V360" stroke="#294055"/>
-    <path d="M1080 0V360" stroke="#294055"/>
-    <path d="M1200 0V360" stroke="#294055"/>
+<svg width="1280" height="300" viewBox="0 0 1280 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="300" rx="28" fill="#071018"/>
+  <rect x="1" y="1" width="1278" height="298" rx="27" stroke="#1B2A36"/>
+  <g opacity="0.24">
+    <path d="M0 60H1280" stroke="#284053"/>
+    <path d="M0 120H1280" stroke="#284053"/>
+    <path d="M0 180H1280" stroke="#284053"/>
+    <path d="M0 240H1280" stroke="#284053"/>
+    <path d="M128 0V300" stroke="#284053"/>
+    <path d="M256 0V300" stroke="#284053"/>
+    <path d="M384 0V300" stroke="#284053"/>
+    <path d="M512 0V300" stroke="#284053"/>
+    <path d="M640 0V300" stroke="#284053"/>
+    <path d="M768 0V300" stroke="#284053"/>
+    <path d="M896 0V300" stroke="#284053"/>
+    <path d="M1024 0V300" stroke="#284053"/>
+    <path d="M1152 0V300" stroke="#284053"/>
   </g>
-  <path d="M68 270C135 252 171 173 236 176C300 179 339 279 410 274C480 269 518 168 584 147C649 126 708 189 774 183C840 177 871 115 938 111C1004 107 1063 180 1126 177C1171 175 1210 149 1241 125" stroke="#D8B16C" stroke-width="4" stroke-linecap="round"/>
-  <path d="M68 300C130 286 179 240 237 237C296 234 342 273 405 267C468 261 528 208 589 205C651 202 710 229 771 226C832 223 882 189 946 191C1010 193 1072 231 1136 224C1176 220 1211 201 1243 189" stroke="#8FC8B8" stroke-width="3" stroke-linecap="round"/>
-  <circle cx="584" cy="147" r="6" fill="#D8B16C"/>
-  <circle cx="938" cy="111" r="6" fill="#D8B16C"/>
-  <circle cx="1126" cy="177" r="6" fill="#8FC8B8"/>
-  <rect x="66" y="56" width="312" height="40" rx="20" fill="#0D141C" stroke="#24303D"/>
-  <text x="90" y="81" fill="#8FC8B8" font-family="IBM Plex Mono, monospace" font-size="18" letter-spacing="2">LPG / PHYSICAL / PRICING / RISK</text>
-  <text x="64" y="150" fill="#EEF3F7" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700">Xavier Fan</text>
-  <text x="64" y="194" fill="#9BA8B7" font-family="Segoe UI, Arial, sans-serif" font-size="24">LPG Trader focused on physical markets, pricing and risk</text>
-  <text x="64" y="232" fill="#728194" font-family="Segoe UI, Arial, sans-serif" font-size="18">Physical + paper integration  /  Trade finance structuring  /  FRM</text>
-  <rect x="776" y="50" width="432" height="224" rx="24" fill="#0B1016" stroke="#22303C"/>
-  <rect x="808" y="84" width="172" height="68" rx="16" fill="#0F1720" stroke="#1C2833"/>
-  <rect x="1002" y="84" width="172" height="68" rx="16" fill="#0F1720" stroke="#1C2833"/>
-  <rect x="808" y="172" width="172" height="68" rx="16" fill="#0F1720" stroke="#1C2833"/>
-  <rect x="1002" y="172" width="172" height="68" rx="16" fill="#0F1720" stroke="#1C2833"/>
-  <text x="808" y="70" fill="#7EA6D1" font-family="IBM Plex Mono, monospace" font-size="16" letter-spacing="2">DESK READOUT</text>
-  <text x="832" y="112" fill="#728194" font-family="IBM Plex Mono, monospace" font-size="14">FLOW</text>
-  <text x="832" y="136" fill="#EEF3F7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Physical reality</text>
-  <text x="1026" y="112" fill="#728194" font-family="IBM Plex Mono, monospace" font-size="14">SPREAD</text>
-  <text x="1026" y="136" fill="#EEF3F7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Paper strategy</text>
-  <text x="832" y="200" fill="#728194" font-family="IBM Plex Mono, monospace" font-size="14">RISK</text>
-  <text x="832" y="224" fill="#EEF3F7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Pricing discipline</text>
-  <text x="1026" y="200" fill="#728194" font-family="IBM Plex Mono, monospace" font-size="14">STRUCTURE</text>
-  <text x="1026" y="224" fill="#EEF3F7" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Trade finance</text>
-  <text x="809" y="304" fill="#728194" font-family="IBM Plex Mono, monospace" font-size="15">COMMERCIAL EDGE = MARKET VIEW + HEDGE LOGIC + STRUCTURE</text>
+  <circle cx="246" cy="156" r="100" fill="url(#glow)" opacity="0.55"/>
+  <path d="M56 232C123 224 185 162 245 154C305 146 356 191 418 186C479 181 531 123 595 119C658 115 711 155 774 150C836 145 888 100 953 101C1017 102 1077 139 1139 135C1176 132 1211 118 1242 100" stroke="#D8B16C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M56 252C119 248 178 213 240 210C301 207 362 231 423 227C484 223 540 184 602 183C664 182 720 207 781 205C842 203 898 177 960 177C1022 177 1083 202 1142 198C1180 196 1214 185 1243 172" stroke="#8FC8B8" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="595" cy="119" r="5" fill="#D8B16C"/>
+  <circle cx="953" cy="101" r="5" fill="#D8B16C"/>
+  <circle cx="1142" cy="198" r="5" fill="#8FC8B8"/>
+  <text x="62" y="52" fill="#8FC8B8" font-family="IBM Plex Mono, monospace" font-size="16" letter-spacing="2">XAVIER FAN / ENERGY TRADING DESK</text>
+  <text x="60" y="120" fill="#F2F6FA" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">Xavier Fan</text>
+  <text x="60" y="164" fill="#A1AEBC" font-family="Segoe UI, Arial, sans-serif" font-size="23">LPG Trader focused on physical markets, pricing and risk</text>
+  <text x="60" y="204" fill="#738293" font-family="Segoe UI, Arial, sans-serif" font-size="18">Physical + paper integration  /  Trade finance structuring  /  FRM</text>
+  <rect x="60" y="228" width="468" height="32" rx="16" fill="#0E1821" stroke="#22313C"/>
+  <text x="82" y="249" fill="#D8B16C" font-family="IBM Plex Mono, monospace" font-size="14" letter-spacing="1.6">MARKET VIEW + HEDGE LOGIC + STRUCTURE</text>
+  <defs>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(246 156) rotate(90) scale(100)">
+      <stop stop-color="#7EA6D1"/>
+      <stop offset="1" stop-color="#7EA6D1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
 </svg>
