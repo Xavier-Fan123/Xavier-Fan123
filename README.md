@@ -1,35 +1,69 @@
-# Xavier Fan
+<p align="center">
+  <img src="./assets/trading-desk-banner.svg" alt="Xavier Fan trading desk banner" width="100%">
+</p>
 
-**LPG Trader focused on physical markets, pricing and risk**
+<h1 align="center">Xavier Fan</h1>
+<p align="center"><strong>LPG Trader focused on physical markets, pricing and risk</strong></p>
 
-I work at the intersection of physical flow, paper strategy, and trade finance structure across energy markets. My background in petrochemical risk control, FRM training, and experience across Fortune Global 500 platforms shape how I think about pricing discipline, commercial risk, and execution structure.
+<p align="center">
+  <a href="mailto:fanzhangxuan@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0b1016?style=for-the-badge&logo=gmail&logoColor=d8b16c&labelColor=0b1016" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/zhangxuan-fan-23a88a245">
+    <img src="https://img.shields.io/badge/LinkedIn-0b1016?style=for-the-badge&logo=linkedin&logoColor=8fc8b8&labelColor=0b1016" alt="LinkedIn">
+  </a>
+  <a href="https://xavier-fan123.github.io">
+    <img src="https://img.shields.io/badge/Site-0b1016?style=for-the-badge&logo=githubpages&logoColor=7ea6d1&labelColor=0b1016" alt="Site">
+  </a>
+  <a href="https://github.com/Xavier-Fan123">
+    <img src="https://img.shields.io/badge/GitHub-0b1016?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0b1016" alt="GitHub">
+  </a>
+</p>
 
-## Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/LPG-06090d?style=flat-square&logoColor=white&labelColor=06090d&color=d8b16c" alt="LPG">
+  <img src="https://img.shields.io/badge/Physical_+_Paper-06090d?style=flat-square&logoColor=white&labelColor=06090d&color=8fc8b8" alt="Physical and Paper">
+  <img src="https://img.shields.io/badge/Pricing_+_Risk-06090d?style=flat-square&logoColor=white&labelColor=06090d&color=7ea6d1" alt="Pricing and Risk">
+  <img src="https://img.shields.io/badge/Trade_Finance-06090d?style=flat-square&logoColor=white&labelColor=06090d&color=5d738d" alt="Trade Finance">
+  <img src="https://img.shields.io/badge/FRM-06090d?style=flat-square&logoColor=white&labelColor=06090d&color=7fb08a" alt="FRM">
+</p>
 
+I work where **physical flow, paper strategy, and financing structure** need to support the same commercial objective. My background in petrochemical risk control, FRM training, and experience across Fortune Global 500 platforms shape how I think about market structure, exposure discipline, and execution quality.
+
+## Desk Thesis
+
+| Signal | How I work |
+| --- | --- |
+| Physical reality | Anchor decisions in logistics, basis, pricing terms, and execution constraints. |
+| Paper discipline | Translate commercial exposure into cleaner hedge logic and sharper risk transfer. |
+| Structure | Treat trade finance as part of commercial architecture, not a downstream process. |
+
+## Market Profile
+
+- LPG and petrochemical market focus
 - Physical and paper integration
 - Pricing and risk management
 - Trade finance structuring
-- LPG and petrochemical market intelligence
-
-## Credentials
-
 - Financial Risk Manager (FRM)
 
-## Selected Work
+## Selected Systems
 
-- [oil-trading-system](https://github.com/Xavier-Fan123/oil-trading-system)  
-  A full-stack trading platform built around operational workflows, settlement logic, position visibility, and risk-aware system design.
-
-- [lpg-trading-knowledge-base](https://github.com/Xavier-Fan123/lpg-trading-knowledge-base)  
-  A structured knowledge base for LPG trading that captures market fundamentals, logistics, pricing benchmarks, and research workflows.
+<p>
+  <a href="https://github.com/Xavier-Fan123/oil-trading-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xavier-Fan123&repo=oil-trading-system&hide_border=true&bg_color=00000000&title_color=d8b16c&text_color=9ba8b7&icon_color=8fc8b8" alt="oil-trading-system">
+  </a>
+  <a href="https://github.com/Xavier-Fan123/lpg-trading-knowledge-base">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xavier-Fan123&repo=lpg-trading-knowledge-base&hide_border=true&bg_color=00000000&title_color=d8b16c&text_color=9ba8b7&icon_color=8fc8b8" alt="lpg-trading-knowledge-base">
+  </a>
+</p>
 
 ## Education
 
-- B.A. in Economics, School of Economics, Xiamen University
-- M.Sc. in Financial Economics, Singapore Management University
+- **Xiamen University** - B.A. in Economics, School of Economics
+- **Singapore Management University** - M.Sc. in Financial Economics
 
-## Contact
+## Activity Snapshot
 
-- Email: [fanzhangxuan@outlook.com](mailto:fanzhangxuan@outlook.com)
-- LinkedIn: [zhangxuan-fan-23a88a245](https://www.linkedin.com/in/zhangxuan-fan-23a88a245)
-- GitHub: [Xavier-Fan123](https://github.com/Xavier-Fan123)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xavier-Fan123&theme=github_dark" alt="GitHub profile summary">
+</p>
