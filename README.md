@@ -1,8 +1,8 @@
-﻿# Xavier Fan
+# Xavier Fan
 
 **LPG Trader focused on physical markets, pricing and risk**
 
-I work at the intersection of physical flow, paper strategy, and trade finance structure across energy markets. My background in petrochemical risk control and experience across Fortune Global 500 platforms shape how I think about pricing discipline, commercial risk, and execution structure.
+I work at the intersection of physical flow, paper strategy, and trade finance structure across energy markets. My background in petrochemical risk control, FRM training, and experience across Fortune Global 500 platforms shape how I think about pricing discipline, commercial risk, and execution structure.
 
 ## Focus
 
@@ -10,6 +10,10 @@ I work at the intersection of physical flow, paper strategy, and trade finance s
 - Pricing and risk management
 - Trade finance structuring
 - LPG and petrochemical market intelligence
+
+## Credentials
+
+- Financial Risk Manager (FRM)
 
 ## Selected Work
 
